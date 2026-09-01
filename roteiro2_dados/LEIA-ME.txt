@@ -1,0 +1,11 @@
+Roteiro 2 - Cibersegurança Aplicada com IA (Insper 2026-2) - Aula 5
+
+1) Gere o dataset da sua dupla (item a do roteiro, obrigatório antes de tudo):
+     python meu_dataset.py --dupla "Nome Sobrenome; Nome Sobrenome"
+   Anote o código, o random_state e a classe difícil impressos.
+
+dados/aquecimento_autenticacao.csv   aquecimento (itens b a d), igual para todos
+pool/cicids2017_pool.csv.gz          pool do CICIDS2017 real (não use diretamente)
+dados/R2_<codigo>.csv.gz             gerado pelo passo 1: o SEU dataset (itens e a k)
+
+Requisitos: pip install pandas numpy scikit-learn matplotlib jupyter
